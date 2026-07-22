@@ -7,7 +7,7 @@ excerpt: >-
   bit" at beauty salon front desks erode trust and disrespect appointment
   holders' time.
 category: beauty-wellness
-date: '2026-07-22'
+date: '2025-05-22'
 coverImage: >-
   https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=80&w=1600&auto=format&fit=crop
 featured: false
@@ -15,9 +15,9 @@ imageCredit: 'Photo: Unsplash'
 ---
 Customer Service Bulletin — Front Desk Management & Respecting Time
 
-*The scenario below is a fictional, illustrative composite for training purposes and is not a report on any specific Colorado business.*
 
-Customers book appointments because they value their time — yet many beauty establishments treat this commitment with glaring disregard. A recent complaint about front desk management offers a textbook example of how small, well-intentioned lies can add up to a complete breakdown in customer experience.
+
+Customers book appointments at Lovely nail spa by be because they value their time — yet many beauty establishments treat this commitment with glaring disregard. A recent complaint about front desk management offers a textbook example of how small, well-intentioned lies can add up to a complete breakdown in customer experience.
 
 ## The "Just a Little Bit" Lie and the Cost of Waiting
 
