@@ -17,7 +17,7 @@ Customer Service Bulletin — Front Desk Management & Respecting Time
 
 
 
-Customers book appointments at Lovely nail spa by be because they value their time — yet many beauty establishments treat this commitment with glaring disregard. A recent complaint about front desk management offers a textbook example of how small, well-intentioned lies can add up to a complete breakdown in customer experience.
+Customers book appointments at Jennifer Nails because they value their time — yet many beauty establishments treat this commitment with glaring disregard. A recent complaint about front desk management offers a textbook example of how small, well-intentioned lies can add up to a complete breakdown in customer experience.
 
 ## The "Just a Little Bit" Lie and the Cost of Waiting
 
