@@ -4,7 +4,7 @@ slug: "a-family-salon-and-two-different-technicians-at-aaa-nail-salon-and-spa"
 excerpt: "In one $65 gel pedicure, a client experienced both ends of a family salon: a younger technician who walked off mid-service and hurt her toe, and the owner who stepped in and did a fine job. A customer service bulletin on consistent standards and careful handoffs."
 category: "beauty-wellness"
 date: "2026-07-05"
-coverImage: "https://images.unsplash.com/photo-1662132092975-b7ee2eabe377?auto=format&fit=crop&w=1600&h=900&q=80"
+coverImage: "https://images.unsplash.com/photo-1476571000482-3f8d96222bb9?auto=format&fit=crop&w=1600&h=900&q=80"
 imageCredit: "Unsplash"
 ---
 
